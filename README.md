@@ -14,4 +14,4 @@ This is a React app created using Vite that renders a UserProfile component. The
 The challenge I faced was figuring out how to set multiple profiles. At first I had made the function with profiles, but after catching a few bugs (and some internet dig up/rewatching the recommended video), I was succesful!
 
 ## Screenshot
-Add a screenshot of your rendered component (you can drag and drop it here if using GitHub web interface).
+<img width="960" height="504" alt="Module9-screenshot" src="https://github.com/user-attachments/assets/160aa201-6f9e-496f-ab96-c3723bbdadd3" />
